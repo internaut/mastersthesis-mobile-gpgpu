@@ -1,6 +1,6 @@
 # Android GPGPU Testing Prototypes
 
-This repository contains some of the prototypes that I developed during my master's thesis -- "Parallel Computing for Digital Signal Processing on Mobile Device GPUs". More information about this thesis and the PDF is available on [my website](http://mkonrad.net/projects/mastersthesis_mobile_gpgpu.html).
+This repository contains some of the prototypes that I developed during my master's thesis -- "Parallel Computing for Digital Signal Processing on Mobile Device GPUs". More information about my thesis and the PDF is available on [my website](http://mkonrad.net/projects/mastersthesis_mobile_gpgpu.html).
 
 These prototypes test different algorithms (e.g. image convolution, Hough transform) with different GPGPU technologies and give report about the execution time of individual processing steps. The following technologies are assessed:
 
@@ -10,9 +10,9 @@ These prototypes test different algorithms (e.g. image convolution, Hough transf
 
 For details and results, please refer to the [project page on my website](http://mkonrad.net/projects/mastersthesis_mobile_gpgpu.html).
 
-Unfortunately, the code is not very well documented because of the general time pressure during writing a master's thesis.
+Unfortunately, the code is not very well documented because of the general time pressure during writing a master's thesis. Nevertheless, I hope that this helps people who want to get started with GPGPU on mobile devices.
 
-The code has been tested with a Nexus 10 running Android 4.2.1. Please note, that OpenCL support is not available on most devices (see p. 20 of my master's thesis) and requires manual setup (see [this post](http://sweetpea.tentacle.net/blog/opencl-on-nexus-4/) and [that post](http://www.openclblog.com/2013/02/opencl-on-nexus-10-part-1.html)).
+The code has been tested with a Nexus 10 running Android 4.2.1. Please note that OpenCL support is not available on most devices (see p. 20 of my master's thesis) and requires manual setup (see [this post](http://sweetpea.tentacle.net/blog/opencl-on-nexus-4/) and [that post](http://www.openclblog.com/2013/02/opencl-on-nexus-10-part-1.html)).
 
 # Available Prototypes
 
