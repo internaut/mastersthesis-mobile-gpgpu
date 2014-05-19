@@ -1,0 +1,1 @@
+swig -java -package net.mkonrad.glimageprocnative -includeall -verbose -outdir src/net/mkonrad/glimageprocnative/ -c++ -I/usr/local/include -I/System/Library/Frameworks/JavaVM.framework/Headers -I./jni -o jni/java_interface_wrap.cpp jni/imgproc.i

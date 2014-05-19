@@ -1,0 +1,8 @@
+#osx noise:
+.DS_Store
+
+#eclipse noise:
+
+**/bin/**
+**/gen/**
+**/obj/**

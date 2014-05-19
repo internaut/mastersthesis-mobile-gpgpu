@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<calibration_Time>"Mon Dec  9 13:30:36 2013"</calibration_Time>
+<nrOfFrames>50</nrOfFrames>
+<image_Width>1280</image_Width>
+<image_Height>720</image_Height>
+<board_Width>8</board_Width>
+<board_Height>5</board_Height>
+<square_Size>50.</square_Size>
+<FixAspectRatio>1.</FixAspectRatio>
+<!-- flags:  +fix_aspectRatio +fix_principal_point +zero_tangent_dist -->
+<flagValue>14</flagValue>
+<camera_matrix type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>3</cols>
+  <dt>d</dt>
+  <data>
+    1.6754029340900715e+03 0. 6.3950000000000000e+02 0.
+    1.6754029340900715e+03 3.5950000000000000e+02 0. 0. 1.</data></camera_matrix>
+<distortion_coefficients type_id="opencv-matrix">
+  <rows>5</rows>
+  <cols>1</cols>
+  <dt>d</dt>
+  <data>
+    1.4334768789666885e-01 2.8629808706679127e+00 0. 0.
+    -4.8626539872260309e+01</data></distortion_coefficients>
+<Avg_Reprojection_Error>8.2545600384093831e-01</Avg_Reprojection_Error>
+</opencv_storage>
