@@ -22,3 +22,7 @@ The code has been tested with a Nexus 10 running Android 4.2.1. Please note that
 * *GlImageProc* -- OpenGL ES 2.0 shader driven image convolution with kernel generator (uses Java API)
 * *GlImageProcNative* -- OpenGL ES 2.0 shader driven image convolution, thresholding and Parallel Coordinate space based Hough transform (uses NDK API)
 * *RsImageProc* -- Android RenderScript driven image convolution (limited functionality, crashes)
+
+# LICENSE
+
+Licensed under BSD 2-Clause license. See the file `LICENSE`.
