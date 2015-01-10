@@ -1,5 +1,7 @@
 # Android GPGPU Testing Prototypes
 
+*Update January 2015:* Please note, that I have released a library for OpenGL ES 2.0 based GPGPU for Android and iOS systems -- [ogles_gpgpu](https://github.com/internaut/ogles_gpgpu).
+
 This repository contains some of the prototypes that I developed during my master's thesis -- "Parallel Computing for Digital Signal Processing on Mobile Device GPUs." More information about my thesis and the PDF is available on [my website](http://mkonrad.net/projects/mastersthesis_mobile_gpgpu.html).
 
 These prototypes test different algorithms (e.g. image convolution, Hough transform) with different GPGPU technologies and give report about the execution time of individual processing steps. The following technologies are assessed:
